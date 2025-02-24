@@ -57,5 +57,5 @@ The **Meow at Yah Point of Sale System** is a Java-based console application des
 This project is open-source and free to use. Feel free to modify and enhance it! 🛠️
 
 ## 👨‍💻 Author
-Developed with ❤️ by Chelsie Gonzales firts year student in Computer Science.
+Developed with ❤️ by Chelsie Gonzales first year student in Computer Science.
 
